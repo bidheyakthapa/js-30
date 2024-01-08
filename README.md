@@ -8,7 +8,7 @@ In this repository I learn js from tutorial for 30 days.
 - [X] Day 3
 - [ ] Day 4
 - [X] Day 5
-- [ ] Day 6
+- [X] Day 6
 - [ ] Day 7
 - [ ] Day 8
 - [ ] Day 9
